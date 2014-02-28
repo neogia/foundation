@@ -1,3 +1,7 @@
+# Foundation No JS
+
+This is a fork of the main Foundation repo where no JS dependencies are specified in the bower.json config file.
+
 # [Foundation](http://foundation.zurb.com)
 
 [![Build Status](https://travis-ci.org/zurb/foundation.png)](https://travis-ci.org/zurb/foundation)
