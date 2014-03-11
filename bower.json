@@ -5,6 +5,7 @@
     "css/foundation.css"
   ],
   "dependencies": {
+    "modernizr": ">= 2.6.2"
   },
   "devDependencies": {
   },
